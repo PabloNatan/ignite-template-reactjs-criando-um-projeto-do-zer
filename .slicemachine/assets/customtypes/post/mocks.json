@@ -1,0 +1,51 @@
+{
+  "id": "fd95c76c-2662-43e3-aaff-20926529dd84",
+  "uid": "odio-dicta-fugit",
+  "type": "post",
+  "data": {
+    "title": "engineer compelling networks",
+    "subtitle": "cultivate out-of-the-box paradigms",
+    "author": "architect magnetic paradigms",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "syndicate real-time metrics",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Labore consequat magna eu cillum nostrud adipisicing cillum sunt eu laborum.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "incubate compelling supply-chains",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Mollit irure ullamco ipsum enim. Nulla sunt culpa mollit consectetur nulla labore id velit occaecat irure. Anim est cillum consequat adipisicing aliquip adipisicing sit dolor ullamco labore velit dolor.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "syndicate holistic e-tailers",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Dolore irure fugiat exercitation cillum consectetur cillum sunt ullamco cupidatat amet pariatur qui enim. Ad velit ex incididunt amet occaecat sint est amet fugiat.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
