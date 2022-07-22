@@ -1,1 +1,13 @@
-// TODO
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  height: 100px;
+  align-items: center;
+  display: flex;
+
+  img {
+    cursor: pointer;
+    max-width: 238px;
+  }
+}
